@@ -1,0 +1,7 @@
+### === TO DO ===
+
+# run 
+    - copy('.env.example', '.env');
+    - php artisan key:generate
+    - php artisan migrate:fresh
+
